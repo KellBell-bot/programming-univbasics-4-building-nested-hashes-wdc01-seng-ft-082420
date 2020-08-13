@@ -1,4 +1,4 @@
-roads =  {
+monopoly =  {
   :railroads=>
   {
     :pieces=>4,
