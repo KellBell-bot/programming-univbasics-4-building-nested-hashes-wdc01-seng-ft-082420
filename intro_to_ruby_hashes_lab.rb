@@ -1,3 +1,8 @@
+def bash_hash
+  {
+    :railroads=> {}
+  }
+end
 monopoly =  {
   :railroads=>
   {
