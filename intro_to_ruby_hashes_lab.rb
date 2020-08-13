@@ -1,12 +1,12 @@
 def base_hash
-  roads = {
+  railroads = {
     :railroads=> {}
   }
-  roads
+  railroads
 end
 
 def monopoly_with_second_tier
-  roads[:railroads]= [ 
+  railroads[:railroads]= [ 
     {:pieces=>4},
     {:rent_in_dollars=> {}}, 
     {:name=> {}}
